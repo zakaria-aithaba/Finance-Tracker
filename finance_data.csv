@@ -1,0 +1,28 @@
+date,amount,category,description
+01-01-2023,120.44,Income,Salary
+15-02-2023,250.75,Income,Bonus
+20-03-2023,150.30,Expense,Groceries
+10-04-2023,85.90,Expense,Transportation
+25-05-2023,300.00,Income,Freelance work
+05-06-2023,45.50,Expense,Dining out
+12-07-2023,120.00,Expense,Shopping
+01-08-2023,400.00,Income,Project completion bonus
+17-09-2023,70.75,Expense,Entertainment
+22-10-2023,180.50,Expense,Home maintenance
+30-11-2023,50.00,Expense,Utilities
+15-12-2023,500.00,Income,Contract payment
+10-01-2024,95.75,Expense,Car repair
+01-02-2024,125.00,Expense,Insurance
+15-03-2024,300.00,Income,Consulting fees
+28-04-2024,60.00,Expense,Subscriptions
+12-05-2024,110.00,Expense,Medical bills
+03-06-2024,250.00,Income,Gift
+22-07-2024,90.50,Expense,Vacation expenses
+01-08-2024,350.00,Income,Quarterly bonus
+15-09-2024,75.30,Expense,Office supplies
+30-10-2024,60.00,Expense,Gym membership
+12-11-2024,40.00,Expense,Streaming services
+25-12-2024,600.00,Income,Year-end bonus
+10-01-2025,80.00,Expense,Books and courses
+05-02-2025,150.00,Income,Side hustle earnings
+20-03-2025,200.00,Expense,Appliances
